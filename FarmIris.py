@@ -9,7 +9,7 @@ from telethon.tl.types import Message
 
 @loader.tds
 class FarmIrisMod(loader.Module):
-    """Для автоматического фарминга коинов в ирисботе"""
+    """Для автоматического фарминга коинов в ирисботе\n\nБольше модулей -> """
 
     strings = {
         "name": "farmiris",
